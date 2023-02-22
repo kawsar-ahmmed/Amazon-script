@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.distric, .post {
+  background: rgb(172, 172, 172);
+  padding: 40px;
+  border-radius: 20px;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.post {
+  background: rgb(68, 68, 68);
+  padding: 40px;
+  border-radius: 20px;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 30px;
+}
